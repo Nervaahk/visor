@@ -29,8 +29,7 @@ one myself.
     pip install torch torchvision matplotlib
     python visor.py
 
-MNIST should download automatically on first run — no separate dataset setup
-needed.
+MNIST should download automatically on first run.
 
 ## Status
 
